@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/about.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/posts/compare-002-ed4d7.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/posts/field_note-002-fm2stv.html</loc>
@@ -55,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/posts/qa-001-ed4d7.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/posts/review-001-fm2stv.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,7 +86,7 @@
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b05-yn-room-pr/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
